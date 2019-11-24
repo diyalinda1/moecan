@@ -1,0 +1,36 @@
+{
+  "short_name": "Moecan",
+  "name": "Streaming Hentai Sub Indo",
+  "icons": [
+	{
+    "src": "https://2.bp.blogspot.com/-pIowPmgRA6g/Xdq4jz89xtI/AAAAAAAABZs/pijTYTwa1kQxOZPasiVWLKzBDcpdlMezwCLcBGAsYHQ/s128-c/Makoto%2BNanaya.png",
+    "type": "image/png",
+    "sizes": "128x128"
+	}, 
+	{
+    "src": "https://2.bp.blogspot.com/-pIowPmgRA6g/Xdq4jz89xtI/AAAAAAAABZs/pijTYTwa1kQxOZPasiVWLKzBDcpdlMezwCLcBGAsYHQ/s144-c/Makoto%2BNanaya.png",
+    "type": "image/png",
+    "sizes": "144x144"
+	}, 
+	{
+    "src": "https://2.bp.blogspot.com/-pIowPmgRA6g/Xdq4jz89xtI/AAAAAAAABZs/pijTYTwa1kQxOZPasiVWLKzBDcpdlMezwCLcBGAsYHQ/s152-c/Makoto%2BNanaya.png",
+    "type": "image/png",
+    "sizes": "152x152"
+	}, 
+    {
+      "src": "https://2.bp.blogspot.com/-pIowPmgRA6g/Xdq4jz89xtI/AAAAAAAABZs/pijTYTwa1kQxOZPasiVWLKzBDcpdlMezwCLcBGAsYHQ/s192-c/Makoto%2BNanaya.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-pIowPmgRA6g/Xdq4jz89xtI/AAAAAAAABZs/pijTYTwa1kQxOZPasiVWLKzBDcpdlMezwCLcBGAsYHQ/s512-c/Makoto%2BNanaya.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://moecan.blogspot.com/?utm_source=homescreen&utm_medium=mobileshortcut&utm_campaign=app",
+  "background_color": "#e97991",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#111"
+}
